@@ -1,0 +1,2 @@
+TAG indicam instruções especiais a serem interpretadas pelo navegador.
+Sua sigla significa Hyper Text Markup Language, ou seja, é uma linguagem de marcação de texto caracterizada pelo uso de TAGS.

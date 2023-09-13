@@ -1,0 +1,31 @@
+alert (" ") : cria uma caixa de mensagem com o que você escreveu dentro.
+document.write("") : escreve um texto em HTML
+Math.round : arredonda um valor "usando matematica"
+function : cria uma função
+{} : "bloco para adicionar instruçoes aquela função
+// : comentario pessoal, a linha de comando com esse sinal será ignorada
+, : serve para separar um valor do outro, permitindo que um ou mais valores fiquem na mesma string/linha de comando dentro do parenteses
+return : retorna um valor (ex: 1+2, return 3)
+prompt () : tem a mesma função de leia () e alert document.write
+parseInt () : converte o valor de uma string (texto) para numeração
+= : atribui um valor a uma variavel
+== : portão logico (ex: assim como < > and or) igual a outro valor
+if : portão logico SE
+else : portão logico SE NAO 
+Math.random () : escreve um numero quebrado aleatorio (ex: 0.23123)
+++ : adiciona o valor "+1" a uma variavel
+while : função que repete os comandos inclusos nele
+for (variavel e seu valor; condição para acabar/interromper a repetição; valor que sera adicionado a variavel a cada repetição)
+break : quebra/interrompe uma repetição
+parseFloat : le o valor como um numero quebrado (ex: 12.33)
+document.querySelector () : seleciona uma tag do html
+TAG do html .value : torna valido o valor do interagivel do html (ex: button, imput)
+TAG do html .onclick : ao clicar, vai executar o comando a ele imposto
+"" : string vazia
+TAG do html .focus() : seleciona automaticamente quando o programa é executado
+[] : isto é uma array, ele permite que uma variavel guarde mais de uma informação
+variavel com array [] .push : adiciona mais valores a variavel com o prgrama aberto
+variavel com array [] .length : conta o numero de elementos dentro da variavel
+
+
+

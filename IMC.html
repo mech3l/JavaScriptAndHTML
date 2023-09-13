@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+<script>
+
+ function pulalinha (){
+    document.write ("<br>"+"<br>");
+ } 
+ function mostra (texto) {
+    document.write(texto);
+    pulalinha();
+ } 
+
+function calculaIMC (altura, peso){
+   return Math.round(peso / (altura * altura));
+}
+var vitorias = prompt ("quantas vitorias seu time fez?");
+var empates = parseInt (prompt ("Quantos empates seu time fez?"));
+var pontos = vitorias*3 + empates;
+mostra ("seus pontos são de: " + pontos);
+if (pontos < 28){
+    mostra("seu time esta pior que o ano passado")
+}
+if (pontos > 28){
+    mostra ("seu time esta melhor que o ano passado")
+}
+if (pontos == 28) ("seu time esta igual ao ano passado")
+</script>

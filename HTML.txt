@@ -1,0 +1,54 @@
+Pula linha/ proxima linha : <br>
+começo\final de uma TAG ex : <h1> \ </h1>
+link externo : <a href="link do site">"o que você quiser"</a>
+"titulo" TAG : <h♦> 
+<big> </big> : aumenta um pouco o tamanho da fonte
+<hr> : coloca uma linha na exibição
+<imput/> : tem a mesma função de prompt(), mas não abre um popup, ele deixa você escrever no site mesmo
+<button> </button> : botão que da pra clicar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Legendas
+♦ : Número que você quiser
+" : " : dois pontos seguido de espaços vão servir para "o que esse comando faz e vice-versa"
